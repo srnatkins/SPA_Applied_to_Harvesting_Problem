@@ -10,7 +10,7 @@ same link but click software archive to access this older version of the softwar
 
 harvest3.m              -- Solves the harvesting problem using Total variation regularization with tuning parameter set to where a control with four switches is obtained
 
-harvest6.m              -- Solves the harvesting problem using Total variation regularization with tuning parameter set to where a control witch six switches is obtained
+harvest6.m              -- Solves the harvesting problem using Total variation regularization with tuning parameter set to where a control with six switches is obtained
 
 SPA4.m                  -- Takes the control form obtained from harvest3.m and updates the switches by using SPA
 
